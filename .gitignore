@@ -3,7 +3,9 @@
 *.lock.hcl
 *.log
 
+# spark
 environments/azure-loganalytics-demo/spark-monitoring
+**/spark-warehouse/*
 
 # Git checkout
 modules/azure-loganalytics/spark-monitoring
