@@ -2,8 +2,8 @@
     "environments": {
         "default": {
             "profile": "DEFAULT",
-            "workspace_dir": "/Shared/dbx/projects/dbx-getting-started",
-            "artifact_location": "dbfs:/dbx/dbx-getting-started"
+            "workspace_dir": "/Users/christopher.chalcraft@databricks.com/dbx/projects/dbx-getting-started",
+            "artifact_location": "dbfs:/users/christopher.chalcraft@databricks.com/dbx/dbx-getting-started"
         }
     }
 }
