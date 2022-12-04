@@ -5,7 +5,7 @@
 
 # spark
 environments/azure-loganalytics-demo/spark-monitoring
-**/spark-warehouse/*
+**/spark-warehouse/
 
 # Git checkout
 modules/azure-loganalytics/spark-monitoring
