@@ -7,6 +7,7 @@ from pyspark.sql import SparkSession
 
 from covid_analysis.transforms import *
 
+# spark session
 spark = SparkSession.builder.getOrCreate()
 
 # check if job is running in production mode
